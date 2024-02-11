@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Seminar9_Example.iml" filepath="$PROJECT_DIR$/.idea/Seminar9_Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task_1_1/Task_1_1.iml" filepath="$PROJECT_DIR$/Task_1_1/Task_1_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task_1_1/microservice1/microservice1.iml" filepath="$PROJECT_DIR$/Task_1_1/microservice1/microservice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task_1_1/microservice2/microservice2.iml" filepath="$PROJECT_DIR$/Task_1_1/microservice2/microservice2.iml" />
     </modules>
   </component>
 </project>
